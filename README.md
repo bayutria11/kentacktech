@@ -1,0 +1,2 @@
+# kentacktech
+project toko laptop
